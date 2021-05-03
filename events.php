@@ -39,7 +39,7 @@ $events = getEvents($date);
 </div>
 
 <script>
-    const ROOT = "/job_portal/calendar/";
+    const ROOT = "/calendar/";
     let removeEventBtn = document.querySelectorAll('.removeEventBtn');
 
     removeEventBtn.forEach(element => {

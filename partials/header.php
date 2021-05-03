@@ -11,7 +11,7 @@
 
 <?php
 
-$ROOT = "/job_portal/calendar/";
+$ROOT = "/calendar/";
 
 ?>
 <body>

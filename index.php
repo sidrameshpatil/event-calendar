@@ -159,7 +159,7 @@ $calendar = new Calendar($year);
 <script>
 
     // this is the path of the calendar project in server root directory
-    const ROOT = "/job_portal/calendar/";
+    const ROOT = "/calendar/";
         
     // selecting the add event form
     let addEventForm = document.getElementById("addEventForm");
